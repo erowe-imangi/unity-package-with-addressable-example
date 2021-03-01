@@ -1,0 +1,14 @@
+{
+    "name": "com.imangi.addressablesexample",
+    "version": "1.0.0",
+    "displayName": "AddressablesExample",
+    "description": "This is an example package with addressables",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "dependencies": {
+      "com.unity.some-package": "1.0.0"
+   },
+    "author": {
+      "name": "Edward"
+    }
+  }
