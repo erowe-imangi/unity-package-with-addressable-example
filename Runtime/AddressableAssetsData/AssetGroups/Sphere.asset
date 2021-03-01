@@ -15,10 +15,10 @@ MonoBehaviour:
   m_GroupName: Sphere
   m_Data:
     m_SerializedData: []
-  m_GUID: 77eabc53a2a9a47a8b7086a89a1773e4
+  m_GUID: 5ad530f83a75e413081652894ff89a93
   m_SerializeEntries:
   - m_GUID: 9ba754b03a3a141fb8a197cf27bb7317
-    m_Address: Assets/Prefabs/Sphere.prefab
+    m_Address: Assets/unity-package-with-addressable-example/Runtime/Prefabs/Sphere.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
     m_MainAsset: {fileID: 9056468077570003103, guid: 9ba754b03a3a141fb8a197cf27bb7317, type: 3}
@@ -27,5 +27,5 @@ MonoBehaviour:
   m_Settings: {fileID: 11400000, guid: e89260386005848f68ea23f9fc1d1a88, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: a2bc67abcf1904ff4a9eb6fd521ab6f9, type: 2}
-    - {fileID: 11400000, guid: 6b5bb6d48a67e42ddbad945dffd18e1c, type: 2}
+    - {fileID: 11400000, guid: 2b54b2e9fac8d43f5bc65e9fc31c98aa, type: 2}
+    - {fileID: 11400000, guid: 8e780000f95f54d4e81dc5fa0188b6c9, type: 2}

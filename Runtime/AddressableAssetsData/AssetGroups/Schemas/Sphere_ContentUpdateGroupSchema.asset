@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5834b5087d578d24c926ce20cd31e6d6, type: 3}
   m_Name: Sphere_ContentUpdateGroupSchema
   m_EditorClassIdentifier: 
-  m_Group: {fileID: 11400000, guid: 2ae343fdf2e924c8d91446cb8e624157, type: 2}
+  m_Group: {fileID: 11400000, guid: 0c17ea03591914e03be28a6703b24182, type: 2}
   m_StaticContent: 0
